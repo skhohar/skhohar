@@ -10,6 +10,6 @@ Welcome on my github profile,
 <li> 🌱 I just learned Ruby on Rails, Javascript and SQL. In the future, I'd like to learn React, Python and/or C++. </li>
 <li> 🧩 I’m open to trading skills/exchange knowledge (see my linkedin profile to know more about what I can do: https://fr.linkedin.com/in/skhohar/en).
 <li> 💬 I love to chat about cycling, music, & poetry among other things.
-<li> 📫 Please reach me by email: s-kh@live.fr
+<li> 📫 Please reach me by email: <strong>s-kh@live.fr</strong>
  </ul>
 
