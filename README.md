@@ -1,7 +1,7 @@
 Welcome on my github profile,
 
 - 🔭 <strong>Currently working on my own projects</strong>: personal follow-ups of group projects started at Le Wagon, as well as apps answering needs I observed in the lives of my relatives.
-- 📌 3 thematics <strong>I'm enthusiastic about</strong>: digital products involving music or sounds, environmental impact, design fiction.
+- 📌 3 thematics <strong>I'm enthusiastic about</strong>: digital products involving music or sounds, environmental impact, the future.
 - 👯 4 values that <strong>make me want to work with people</strong>: originality, transparency, ambition and care.
 - ⚡️ 2 environments that <strong>get me particularly excited</strong>: hackathons & labs.
 - 👉 <strong>I'm open to opportunities!</strong>
